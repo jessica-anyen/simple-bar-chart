@@ -3,7 +3,7 @@
 
 nothing but a simple bar chart
 
-input: (The third column should exists label)
+data form: (The third column should exists label)
 
 > [0, 1, action, .....]
 
